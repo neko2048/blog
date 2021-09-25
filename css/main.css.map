@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "main.css",
+	"sources": [
+		"main.scss"
+	],
+	"sourcesContent": [
+		"//color-box_subtitle\n.subtitle{\n    padding: 10px;\n    border-radius: 10px; \n    text-align: center; \n    margin: 10px; \n    font-size: 20px;\n    }\n\n"
+	],
+	"names": [],
+	"mappings": "AACA,AAAA,SAAS,AAAA,CACL,OAAO,CAAE,IAAI,CACb,aAAa,CAAE,IAAI,CACnB,UAAU,CAAE,MAAM,CAClB,MAAM,CAAE,IAAI,CACZ,SAAS,CAAE,IAAI,CACd"
+}
