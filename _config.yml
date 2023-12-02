@@ -18,7 +18,7 @@ timezone: Asia/Taipei
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: FSKAO # the main title
+title: ATMENU10246 # the main title
 
 tagline: A Place Savins Works # it will display as the sub-title
 
@@ -31,8 +31,8 @@ url: ""
 github:
   username: neko2048 # change to your github username
 
-twitter:
-  username: twitter_username # change to your twitter username
+#twitter:
+#  username: twitter_username # change to your twitter username
 
 social:
   # Change to your full name.

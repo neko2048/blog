@@ -22,3 +22,4 @@ package-lock.json
 
 # self_defined
 .DS_Store
+dockerRun.sh
