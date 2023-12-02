@@ -869,6 +869,8 @@ $btn-mb: 0.5rem;
       content: '';
       width: $btn-border-width;
       height: $btn-border-width;
+      margin-right: $btn-gap/2;
+      margin-left: $btn-gap/2;
       border-radius: 50%;
       margin-bottom: $btn-mb;
     }
