@@ -1,7 +1,7 @@
 ---
 title: Matplotlib Cheat Sheet
 date: 2023-12-03 00:00:00 +0800
-categories: [Python]
+categories: [CheatSheet, Python]
 tags: [python, matplotlib, cheatSheet]
 # TAG names should always be lowercase
 ---
