@@ -1,13 +1,15 @@
 ---
-title: Build Mapbox Project With React & Docker I - Build And Setup
+title: Mapbox App I [Log] - Build And Setup
 date: 2024-01-02 00:00:00 +0800
-categories: [MapboxApp]
+categories: [Mapbox, MapboxApp]
 tags: [mapbox, react, docker, app]
 # TAG names should always be lowercase
 ---
-Update Date: 2024-01-02
+Update Date: 2024-01-03
 ## 1. Introduction
 In this series, I will try to write developing log about using mapbox to cooperate the location and photo information together into an application. This is an experimental application and I have totoally no experience about developing an app, so just try and error.
+
+Also, I read the document from mapbox and takes some notes [here](https://neko2048.github.io/posts/mapboxApp-II/)
 
 In this first blog, I will need to set up the developing environment. The developing environment is MacOS.
 The following packages are required:
@@ -15,7 +17,7 @@ The following packages are required:
 * Docker
 
 ## 2. Name your project
-According to the mapbox documents[^fn1], let's name your project name like `use-mapbox-gl-js-with-react`.
+According to the mapbox documents[^fn1], let's name your project name like `use-mapbox-gl-js-with-react`. 
 
 And the file structure should be
 ```
