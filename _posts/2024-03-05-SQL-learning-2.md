@@ -1,7 +1,7 @@
 ---
 title: SQL learning 2 - Queries
 date: 2024-03-05 00:00:00 +0800
-categories: [SQL, CheatSheet]
+categories: [CheatSheet, SQL]
 tags: [sql, learning]
 # TAG names should always be lowercase
 ---
@@ -28,7 +28,7 @@ from tableName
 ```sql
 select distinct column1 from tableName;
 ```
-This returns all unique values in column1.
+This returns all unique values in column1. 
 
 ### Where
 ```sql

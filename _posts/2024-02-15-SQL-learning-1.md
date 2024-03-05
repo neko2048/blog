@@ -1,7 +1,7 @@
 ---
 title: SQL learning 1 - Manipulation
 date: 2024-02-15 00:00:00 +0800
-categories: [SQL, CheatSheet]
+categories: [CheatSheet, SQL]
 tags: [sql, learning]
 # TAG names should always be lowercase
 ---
@@ -26,7 +26,7 @@ drop column column_name;
 -- rename column
 rename column old_column_name to new_column_name;
 ```
-To change data type of a column, there are 3 syntaxes for different SQL database engine:
+To change data type of a column, there are 3 syntaxes for different SQL database engine: 
 ```sql
 alter table table_name
 -- For SQL Server / MS Access

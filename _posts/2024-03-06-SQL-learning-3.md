@@ -1,7 +1,7 @@
 ---
 title: SQL learning 3 - Aggregation
 date: 2024-03-06 00:00:00 +0800
-categories: [SQL, CheatSheet]
+categories: [CheatSheet, SQL]
 tags: [sql, learning]
 # TAG names should always be lowercase
 ---
@@ -22,7 +22,7 @@ select COUNT(1) from tableName
 ```sql
 select SUM(column1) from tableName
 ```
-SUM return sum of all values in column1.
+SUM return sum of all values in column1. 
 
 ### MAX / MIN
 ```sql
