@@ -26,8 +26,10 @@ I am passionate in is modelling in both atmospheric one or cognitive one numeric
 | Institution | Identity | Year |
 | ------------ | :-------------: | :------------------: | :------------: |
 | National Taiwan University | Graduate <br>( Atmospheric Sciences ) | 2023 - Now |
+| National Taiwan University | Program <br>( Neurobiology & Cognitive Science ) | 2019 - 2022 |
 | National Taiwan University | Undergraduate <br>( Atmospheric Sciences ) | 2018 - 2022 |
 | Taichung Municipal Taichung First Senior High School| Student | 2016-2018|
+
 ---
 
 ## <font color='grey'>Expertise</font>
